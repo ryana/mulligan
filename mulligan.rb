@@ -51,6 +51,8 @@ module RetryHarder
 
 end
 
+__END__
+# Example
 RetryHarder.initialize
 
 puts "BEGIN"

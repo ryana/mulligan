@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "mulligan"
   gem.homepage = "http://github.com/ryana/mulligan"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Elegantly handle retrying errors, succeeding and failing}
+  gem.description = %Q{Elegantly handle retrying errors, succeeding and failing}
   gem.email = "ryan@angilly.com"
   gem.authors = ["Ryan Angilly"]
   # dependencies defined in Gemfile
